@@ -6,4 +6,8 @@ object Form1: TForm1
   Caption = 'TestClient'
   OnShow = FormShow
   LCLVersion = '2.0.10.0'
+  object Timer1: TTimer
+    Left = 149
+    Top = 62
+  end
 end

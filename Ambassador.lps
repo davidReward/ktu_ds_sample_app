@@ -21,7 +21,7 @@
         <UnitName Value="AmbassadorU1"/>
         <IsVisibleTab Value="True"/>
         <TopLine Value="13"/>
-        <CursorPos X="20" Y="33"/>
+        <CursorPos X="20" Y="34"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -30,7 +30,7 @@
     <JumpHistory Count="1">
       <Position1>
         <Filename Value="ambassadoru1.pas"/>
-        <Caret Line="33" Column="16" TopLine="13"/>
+        <Caret Line="33" Column="20" TopLine="13"/>
       </Position1>
     </JumpHistory>
     <RunParams>
